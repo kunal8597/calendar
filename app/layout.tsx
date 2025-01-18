@@ -6,8 +6,8 @@ import { ThemeProvider } from '@/components/theme-provider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Minimalist Calendar',
-  description: 'A beautiful minimalist calendar application',
+  title: 'Calendar in Dots',
+  description: 'Calendar in Dots',
 };
 
 export default function RootLayout({
